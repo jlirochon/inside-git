@@ -1,6 +1,6 @@
 /**
  * Show a message
  */
-function show_message(message) {
+function showMessage(message) {
     // do stuff
 }
